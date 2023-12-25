@@ -1,0 +1,108 @@
+body{
+    margin: 0;  
+    text-align: center;
+    font-family: 'Merriweather', serif;
+   background-color: #40514E;
+}
+h1{
+    margin: 50px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.25rem;
+    color: #6ec1c1;
+}
+
+h2{
+  
+   font-family: 'Montserrat', sans-serif;
+   font-size: 2.5rem;
+   font-weight: bold;
+   color: #66BFBF; 
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.uppercontainer{
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    padding-bottom: 50px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    color: #11999E;
+    height: 100px;
+    padding-top: 30px;
+    word-spacing: 14px;
+
+}
+
+.atsymb{
+    color: #EAF6F6;
+    font-size: 14px;
+    word-spacing: normal;
+}
+.Serial{
+    text-decoration: underline;
+    color: red;
+}
+.top-cloud{
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    bottom: 300px;
+} 
+
+.skill-row{
+    width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+   line-height: 2;
+   
+
+
+}
+.monkey{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.fire{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.fireT{
+    clear: right;
+}
+
+hr{
+        border-style: dotted none none none;
+        border-color: #EAF6F6;
+        border-width: 7px;
+        width: 7%;
+   
+}
+    .btn:link, .btn:visited {
+        background-color: #11999E;
+        color: white;
+        padding: 14px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 15px;}
+a:hover{
+    color: #EAF6F6;
+}
+
